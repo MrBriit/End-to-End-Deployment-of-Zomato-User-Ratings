@@ -1,17 +1,19 @@
 # End-to-End-Deployment-of-Zomato-User-Ratings
 End to end machine learning project using the zomato dataset
 
+
+
 # **ABSTRACT**
 
-Main Objective:
+        Main Objective:
 
-The main agenda of this project is:
+        The main agenda of this project is:
 
-Perform extensive Exploratory Data Analysis(EDA) on the Zomato Dataset.
+        Perform extensive Exploratory Data Analysis(EDA) on the Zomato Dataset.
 
-Build an appropriate Machine Learning Model that will help various Zomato Restaurants to predict their respective Ratings based on certain features
+        Build an appropriate Machine Learning Model that will help various Zomato Restaurants to predict their respective Ratings based on certain features
 
-DEPLOY the Machine learning model via Flask that can be used to make live predictions of restaurants ratings
+        DEPLOY the Machine learning model via Flask that can be used to make live predictions of restaurants ratings
 
 A step by step guide is attached to this documnet as well as a video explanation of each concpet.
 
